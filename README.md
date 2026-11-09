@@ -23,7 +23,7 @@
 
 ```bash
 # 1. 克隆
-git clone https://github.com/<your-account>/zyhy-ppt-skill.git
+git clone https://github.com/Rushang420/zyhy-ppt-skill.git
 cd zyhy-ppt-skill
 
 # 2. 安装到 DSH 个人技能目录
